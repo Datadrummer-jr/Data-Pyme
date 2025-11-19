@@ -8,3 +8,6 @@ cython
 setuptools
 xlrd==1.2.0
 folium
+scikit-learn
+numpy
+
