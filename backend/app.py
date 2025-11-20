@@ -1,3 +1,3 @@
-from backend import fibo_cython
+from backend import hello_world
 
-print(fibo_cython(300))
+print(hello_world())
