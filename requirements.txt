@@ -12,3 +12,4 @@ scikit-learn
 numpy
 pypdf2
 python_docx
+fastapi

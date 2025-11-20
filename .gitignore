@@ -213,5 +213,8 @@ __marimo__/
 setup.py
 
 # Ignorar el archivo backend específico
-API.py
+backend.py
 backend.pyx
+
+# Permitir binarios compilados
+!*.pyd
