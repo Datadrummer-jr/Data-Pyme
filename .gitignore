@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar todos los archivos .c generados por Cython
+*.c
+
+# Ignorar el archivo de configuración de compilación
+setup.py
+
+# Ignorar el archivo backend específico
+API.py
+backend.pyx
